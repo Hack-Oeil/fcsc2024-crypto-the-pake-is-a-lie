@@ -16,7 +16,7 @@ Fichiers :
 
 Auteur : Maxime
 
-Origine : [The pake is a lie](https://hackropole.fr/en/challenges/crypto/fcsc2024-crypto-the-pake-is-a-lie/)
+Origine : [The pake is a lie](https://hackropole.fr/fr/challenges/crypto/fcsc2024-crypto-the-pake-is-a-lie/)
 
 
 -----------
@@ -33,5 +33,5 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/en/challenges/crypto/fcsc2024-crypto-the-pake-is-a-lie/
+> https://hackropole.fr/fr/challenges/crypto/fcsc2024-crypto-the-pake-is-a-lie/
 
